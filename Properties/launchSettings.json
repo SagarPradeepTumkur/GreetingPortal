@@ -1,1 +1,8 @@
-
+{
+  "profiles": {
+    "GRTB01": {
+      "commandName": "Project",
+      "commandLineArgs": "WorkAnniversaryBatch"
+    }
+  }
+}
